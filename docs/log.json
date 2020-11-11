@@ -1,0 +1,2878 @@
+[
+    {
+        "title": "里程碑-项目启动",
+        "version": "ver.0.0.0",
+        "date": "2018-08-03",
+        "list": [
+            {
+                "text": "初始化了前后端工程",
+                "type": "stone"
+            },
+            {
+                "text": "标志着该项目正式启动",
+                "type": "stone"
+            }
+        ],
+        "type": "holyshit"
+    },
+    {
+        "title": "综合更新",
+        "version": "ver.0.1.0",
+        "date": "2018-10-26",
+        "list": [
+            {
+                "text": "完成了基本的数据可视化",
+                "type": "feature"
+            },
+            {
+                "text": "完成了注册登录模块",
+                "type": "feature"
+            },
+            {
+                "text": "使用Vuetify完全地重构了前端的代码",
+                "type": "beautify"
+            },
+            {
+                "text": "更加合理地统一手机端和PC端的UI风格",
+                "type": "beautify"
+            },
+            {
+                "text": "我会不断添加新的功能和美化界面的",
+                "type": "beautify"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "里程碑-首次公开",
+        "version": "ver.0.2.0",
+        "date": "2018-10-28",
+        "list": [
+            {
+                "text": "收获了首批用户",
+                "type": "stone"
+            },
+            {
+                "text": "大家能够通过添加视频和UP主的追踪",
+                "type": "stone"
+            },
+            {
+                "text": "这能使得这个网站更加完善和全面",
+                "type": "stone"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "架构更新",
+        "version": "ver.0.3.0",
+        "date": "2018-11-10",
+        "list": [
+            {
+                "text": "使用CDN缓存，减少了带宽压力",
+                "type": "cloud"
+            },
+            {
+                "text": "使用Ngnix反向代理",
+                "type": "cloud"
+            },
+            {
+                "text": "希望大佬能够邮件我报告可能存在的问题",
+                "type": "cloud"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "错误修复",
+        "version": "ver.0.3.1",
+        "date": "2018-11-20",
+        "list": [
+            {
+                "text": "修复了关注UP主呈现错误的Bug",
+                "type": "fix"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "version": "ver.0.3.2",
+        "title": "里程碑-获得域名",
+        "date": "2018-11-20",
+        "list": [
+            {
+                "text": "可以通过\"www.biliob.com\"进入这个网站了",
+                "type": "cloud"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "美化页面",
+        "version": "ver.0.3.3",
+        "date": "2018-11-21",
+        "list": [
+            {
+                "text": "添加了一个简单的小图标",
+                "type": "beautify"
+            },
+            {
+                "text": "以后会重新制作一个",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "架构更新",
+        "version": "ver.0.4.0",
+        "date": "2018-11-22",
+        "list": [
+            {
+                "text": "使用Jenkins对后端进行持续集成",
+                "type": "cloud"
+            },
+            {
+                "text": "我终于良好地实现自动部署了",
+                "type": "cloud"
+            },
+            {
+                "text": "现在配置文件获得了更新",
+                "type": "cloud"
+            },
+            {
+                "text": "使用环境变量存储敏感信息",
+                "type": "cloud"
+            },
+            {
+                "text": "使用更为简洁的yaml配置文件",
+                "type": "cloud"
+            },
+            {
+                "text": "github上不再缺失配置文件了",
+                "type": "cloud"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "架构更新",
+        "version": "ver.0.5.0",
+        "date": "2018-11-23",
+        "list": [
+            {
+                "text": "采用HTTPS传输数据，更加安全",
+                "type": "cloud"
+            },
+            {
+                "text": "使用相对协议",
+                "type": "cloud"
+            },
+            {
+                "text": "现在标题的下方不会出现丑陋的白边了",
+                "type": "beautify"
+            },
+            {
+                "text": "提高了兼容性，但是还不完美",
+                "type": "feature"
+            },
+            {
+                "text": "现在应该能兼容大部分手机了",
+                "type": "feature"
+            },
+            {
+                "text": "现在点击UP主的头像能进入UP主的页面了",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "功能更新",
+        "version": "ver.0.6.0",
+        "date": "2018-11-24",
+        "list": [
+            {
+                "text": "萌化了系统提示(*^▽^*)",
+                "type": "beautify"
+            },
+            {
+                "text": "优化了前端的状态管理",
+                "type": "feature"
+            },
+            {
+                "text": "左下角的小球球显示更加正常了",
+                "type": "fix"
+            },
+            {
+                "text": "现在能够成功观测一些本来蜜汁不能的up主",
+                "type": "fix"
+            },
+            {
+                "text": "现在绿色问号有了正常的行为",
+                "type": "fix"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "综合更新",
+        "version": "ver.0.7.0",
+        "date": "2018-11-29",
+        "list": [
+            {
+                "text": "最后使用了代码拆分的技术，减少首屏加载时间",
+                "type": "feature"
+            },
+            {
+                "text": "升级至Webpack4.0，现在能完全兼容IE11了",
+                "type": "cloud"
+            },
+            {
+                "text": "并且搭建了PWA和单元测试基础设施",
+                "type": "cloud"
+            },
+            {
+                "text": "使用了更加合理的代码风格约束规范",
+                "type": "cloud"
+            },
+            {
+                "text": "随手制作了一个看上去更精致的图标",
+                "type": "beautify"
+            },
+            {
+                "text": "UP主粉丝变化率做成柱状图，更加合理",
+                "type": "beautify"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "功能更新",
+        "version": "ver.0.7.1",
+        "date": "2018-12-07",
+        "list": [
+            {
+                "text": "可以更方便地关注UP主和收藏视频了",
+                "type": "feature"
+            },
+            {
+                "text": "可以获得UP主浏览量最高的视频了",
+                "type": "feature"
+            },
+            {
+                "text": "重构了部分前端代码，更加科学了，大概吧",
+                "type": "cloud"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "功能更新-首页",
+        "version": "ver.0.7.1",
+        "date": "2018-12-08",
+        "list": [
+            {
+                "text": "在首页增加了近24小时以来的在线人数图表",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "修复错误-列表",
+        "version": "ver.0.7.2",
+        "date": "2018-12-09",
+        "list": [
+            {
+                "text": "修复了翻页错误的问题",
+                "type": "fix"
+            },
+            {
+                "text": "事实上现在没有翻页这玩意了",
+                "type": "fix"
+            },
+            {
+                "text": "在滑到底端时自动刷出下一页的内容",
+                "type": "fix"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "美化页面",
+        "version": "ver.0.7.3",
+        "date": "2018-12-09",
+        "list": [
+            {
+                "text": "现在关注按钮和收藏按钮更加美观了",
+                "type": "beautify"
+            },
+            {
+                "text": "收窄了PC端页面的大小",
+                "type": "beautify"
+            },
+            {
+                "text": "添加了链接卡片",
+                "type": "feature"
+            },
+            {
+                "text": "添加了跳转到B站的按钮",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "功能更新",
+        "version": "ver.0.8.0",
+        "date": "2018-12-11",
+        "list": [
+            {
+                "text": "添加了排行榜页面",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "功能更新",
+        "version": "ver.0.8.1",
+        "date": "2018-12-16",
+        "list": [
+            {
+                "text": "添加了关于页面",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "功能更新",
+        "version": "ver.0.9.0",
+        "date": "2018-12-21",
+        "list": [
+            {
+                "text": "添加事件页面",
+                "type": "feature"
+            },
+            {
+                "text": "对B站的粉丝突变进行观测",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "架构更新-Google Analysis",
+        "version": "ver.0.9.1",
+        "date": "2018-12-26",
+        "list": [
+            {
+                "text": "嵌入Google Analysis对站点进行分析",
+                "type": "cloud"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "综合更新",
+        "version": "ver.1.0.0",
+        "date": "2019-01-03",
+        "list": [
+            {
+                "text": "替换了许多图标，使得整体更为美观",
+                "type": "beautify"
+            },
+            {
+                "text": "添加了Banner图片",
+                "type": "beautify"
+            },
+            {
+                "text": "事件按钮被移动到了隐藏菜单栏中",
+                "type": "beautify"
+            },
+            {
+                "text": "侧边栏得到了扩充",
+                "type": "beautify"
+            },
+            {
+                "text": "加入了夜间模式",
+                "type": "feature"
+            },
+            {
+                "text": "添加了UP主最近作品的列表",
+                "type": "feature"
+            },
+            {
+                "text": "增加了投稿时间以及封面图片的显示",
+                "type": "feature"
+            },
+            {
+                "text": "加入了私货广告卡片",
+                "type": "feature"
+            },
+            {
+                "text": "现在日志的最上面能看到最新的变化",
+                "type": "feature"
+            }
+        ],
+        "type": "holyshit"
+    },
+    {
+        "title": "界面美化",
+        "version": "ver.1.0.1",
+        "date": "2019-01-05",
+        "list": [
+            {
+                "text": "添加了侧边栏主题站娘图片的显示",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "界面美化",
+        "version": "ver.1.0.2",
+        "date": "2019-01-11",
+        "list": [
+            {
+                "text": "修正了日志页面的时间错误",
+                "type": "fix"
+            },
+            {
+                "text": "使用列表来重新组织了日志页面",
+                "type": "beautify"
+            },
+            {
+                "text": "添加了新的日志滑动动画",
+                "type": "beautify"
+            },
+            {
+                "text": "美化小图标",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "修复错误",
+        "version": "ver.1.0.3",
+        "date": "2019-01-12",
+        "list": [
+            {
+                "text": "修复了排行榜总是滞后一天的BUG",
+                "type": "fix"
+            },
+            {
+                "text": "美化了排行榜",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "功能更新",
+        "version": "ver.1.1.0",
+        "date": "2019-01-22",
+        "list": [
+            {
+                "text": "增加了签到功能",
+                "type": "feature"
+            },
+            {
+                "text": "添加了积分和经验的显示",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "综合更新",
+        "version": "ver.1.2.0",
+        "date": "2019-02-01",
+        "list": [
+            {
+                "text": "修复了多个图表显示错误",
+                "type": "fix"
+            },
+            {
+                "text": "修改了等级和积分的头衔显示",
+                "type": "beautify"
+            },
+            {
+                "text": "美化了图表的展示",
+                "type": "beautify"
+            },
+            {
+                "text": "添加了强力追踪",
+                "type": "feature"
+            },
+            {
+                "text": "强力追踪可达分钟级精确度",
+                "type": "feature"
+            },
+            {
+                "text": "自动追踪在线人数最高的20个视频",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "修复错误",
+        "version": "ver.1.2.1",
+        "date": "2019-02-01",
+        "list": [
+            {
+                "text": "粉丝变化率图表在IE11也能兼容了",
+                "type": "feature"
+            },
+            {
+                "text": "修复了部分浏览器中图表显示异常的问题",
+                "type": "fix"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "功能更新",
+        "version": "ver.1.2.2",
+        "date": "2019-02-08",
+        "list": [
+            {
+                "text": "添加了FAQ页面",
+                "type": "feature"
+            },
+            {
+                "text": "修改了查看下一页的逻辑",
+                "type": "feature"
+            },
+            {
+                "text": "修改了部分头衔的显示",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "功能更新",
+        "version": "ver.1.3.0",
+        "date": "2019-02-13",
+        "list": [
+            {
+                "text": "修复了搜索刷新问题",
+                "type": "fix"
+            },
+            {
+                "text": "添加了UP主排名展示",
+                "type": "feature"
+            },
+            {
+                "text": "修改了日志结构",
+                "type": "beautify"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "功能更新",
+        "version": "ver.1.4.0",
+        "date": "2019-02-14",
+        "list": [
+            {
+                "text": "修复了一个样式错误",
+                "type": "fix"
+            },
+            {
+                "text": "添加了视频的排名显示",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "夜间模式更新",
+        "version": "ver.1.4.1",
+        "date": "2019-02-14",
+        "list": [
+            {
+                "text": "夜间模式图标会变化了",
+                "type": "beautify"
+            },
+            {
+                "text": "记住上次离开时是否为夜间模式",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "引入Redis",
+        "version": "ver.1.5.0",
+        "date": "2019-02-18",
+        "list": [
+            {
+                "text": "使用Redis进行缓存",
+                "type": "cloud"
+            },
+            {
+                "text": "依赖Redis可以进行很多骚操作",
+                "type": "cloud"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "更多操作",
+        "version": "ver.1.6.0",
+        "date": "2019-02-19",
+        "list": [
+            {
+                "text": "为了愉快地分享，使用history路由",
+                "type": "cloud"
+            },
+            {
+                "text": "修复无法回到日间模式的Bug",
+                "type": "fix"
+            },
+            {
+                "text": "添加了UP主、视频的底部列表",
+                "type": "feature"
+            },
+            {
+                "text": "底部列表添加了分享功能",
+                "type": "feature"
+            },
+            {
+                "text": "底部列表添加了刷新功能",
+                "type": "feature"
+            },
+            {
+                "text": "现在消耗积分可以立即刷新数据",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "美化",
+        "version": "ver.1.6.1",
+        "date": "2019-02-20",
+        "list": [
+            {
+                "text": "美化了图表主题",
+                "type": "beautify"
+            },
+            {
+                "text": "美化了部分动画效果",
+                "type": "beautify"
+            },
+            {
+                "text": "美化了导航栏图片",
+                "type": "beautify"
+            },
+            {
+                "text": "修复了一系列不合法日期的问题",
+                "type": "fix"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "图表优化",
+        "version": "ver.1.6.2",
+        "date": "2019-02-22",
+        "list": [
+            {
+                "text": "美化了首页图表",
+                "type": "beautify"
+            },
+            {
+                "text": "重新设计视频饼图",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "强行观测",
+        "version": "ver.1.7.0",
+        "date": "2019-02-23",
+        "list": [
+            {
+                "text": "添加了强行观测的功能",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "观测者排行",
+        "version": "ver.1.8.0",
+        "date": "2019-02-26",
+        "list": [
+            {
+                "text": "添加了观测者排行榜",
+                "type": "feature"
+            },
+            {
+                "text": "美化了过渡动画",
+                "type": "beautify"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "弹幕追踪",
+        "version": "ver.2.0.0",
+        "date": "2019-02-28",
+        "list": [
+            {
+                "text": "添加弹幕追踪功能",
+                "type": "feature"
+            },
+            {
+                "text": "引入结巴分词进行文本统计",
+                "type": "feature"
+            },
+            {
+                "text": "能够通过弹幕生成词云",
+                "type": "feature"
+            },
+            {
+                "text": "能够判断弹幕密度",
+                "type": "feature"
+            },
+            {
+                "text": "爬虫子系统完全分布式化",
+                "type": "stone"
+            }
+        ],
+        "type": "holyshit"
+    },
+    {
+        "title": "优化与修复",
+        "version": "ver.2.0.1",
+        "date": "2019-03-01",
+        "list": [
+            {
+                "text": "修复了粉丝增速显示异常的问题",
+                "type": "fix"
+            },
+            {
+                "text": "使用百分比表示后列UP主排名",
+                "type": "feature"
+            },
+            {
+                "text": "美化了图表效果",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "添加新功能",
+        "version": "ver.2.1.0",
+        "date": "2019-03-03",
+        "list": [
+            {
+                "text": "添加了更多友情链接",
+                "type": "feature"
+            },
+            {
+                "text": "使用百分比表示后列视频排名",
+                "type": "feature"
+            },
+            {
+                "text": "添加首次加载提示框",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "添加新功能",
+        "version": "ver.2.1.1",
+        "date": "2019-03-04",
+        "list": [
+            {
+                "text": "美化了弹幕云的显示",
+                "type": "beautify"
+            },
+            {
+                "text": "在多个页面增加了友情链接模块",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "重构B站事件页面",
+        "version": "ver.2.2.0",
+        "date": "2019-03-09",
+        "list": [
+            {
+                "text": "事件页面更名为UP主粉丝波动数情报",
+                "type": "beautify"
+            },
+            {
+                "text": "优化事件分类及算法",
+                "type": "feature"
+            },
+            {
+                "text": "增加事件信息显示",
+                "type": "feature"
+            },
+            {
+                "text": "点击事件卡片跳转到相应UP主或视频页面",
+                "type": "feature"
+            },
+            {
+                "text": "添加了\"显示更多\"的功能",
+                "type": "feature"
+            },
+            {
+                "text": "更新关于页面",
+                "type": "fix"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "修修补补",
+        "version": "ver.2.2.1",
+        "date": "2019-03-14",
+        "list": [
+            {
+                "text": "美化粉丝波动页面",
+                "type": "beautify"
+            },
+            {
+                "text": "修复部分粉丝波动错误",
+                "type": "fix"
+            },
+            {
+                "text": "修复在ios环境下粉丝变动显示异常的错误",
+                "type": "fix"
+            },
+            {
+                "text": "修复在ios环境下首页日期显示异常的错误",
+                "type": "fix"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "更多排序",
+        "version": "ver.2.2.2",
+        "date": "2019-03-16",
+        "list": [
+            {
+                "text": "以更多方式排序UP主与视频列表",
+                "type": "feature"
+            },
+            {
+                "text": "美化签到提示",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "首页粉丝数榜首争夺",
+        "version": "ver.2.3.0",
+        "date": "2019-03-18",
+        "list": [
+            {
+                "text": "引入odometer滚动数字效果",
+                "type": "beautify"
+            },
+            {
+                "text": "添加首页粉丝数榜首争夺卡片",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "后端更新",
+        "version": "ver.3.0.0",
+        "date": "2019-03-21",
+        "list": [
+            {
+                "text": "优化首页实时粉丝卡片动画效率",
+                "type": "beautify"
+            },
+            {
+                "text": "美化首页实时粉丝卡片样式",
+                "type": "beautify"
+            },
+            {
+                "text": "懒加载部分图片以优化使用体验",
+                "type": "beautify"
+            },
+            {
+                "text": "修复了Edge浏览器下列表图片无法显示的BUG",
+                "type": "fix"
+            },
+            {
+                "text": "更新后端依赖版本，提高开发效率和安全性",
+                "type": "stone"
+            },
+            {
+                "text": "使用事务保证积分操作原子性",
+                "type": "stone"
+            }
+        ],
+        "type": "holyshit"
+    },
+    {
+        "title": "用户记录",
+        "version": "ver.3.1.0",
+        "date": "2019-03-27",
+        "list": [
+            {
+                "text": "现在可以记录用户的操作了",
+                "type": "feature"
+            },
+            {
+                "text": "美化了签到按钮行为",
+                "type": "beautify"
+            },
+            {
+                "text": "美化FAQ页面",
+                "type": "beautify"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "优化用户体验",
+        "version": "ver.3.1.1",
+        "date": "2019-03-29",
+        "list": [
+            {
+                "text": "美化了图表主题",
+                "type": "beautify"
+            },
+            {
+                "text": "添加了图表载入动画",
+                "type": "beautify"
+            },
+            {
+                "text": "优化载入效果",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "修复错误",
+        "version": "ver.3.1.2",
+        "date": "2019-03-31",
+        "list": [
+            {
+                "text": "修复了一些样式错误",
+                "type": "fix"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "安卓版客户端上线",
+        "version": "ver.4.0.0",
+        "date": "2019-04-01",
+        "list": [
+            {
+                "text": "安卓版客户端上线",
+                "type": "stone"
+            },
+            {
+                "text": "添加了安卓版客户端下载页面",
+                "type": "feature"
+            }
+        ],
+        "type": "holyshit"
+    },
+    {
+        "title": "样式美化",
+        "version": "ver.4.1.0",
+        "date": "2019-04-02",
+        "list": [
+            {
+                "text": "美化了侧边栏样式",
+                "type": "beautify"
+            },
+            {
+                "text": "美化了粉丝波动页面",
+                "type": "beautify"
+            },
+            {
+                "text": "美化了观测者排行页面",
+                "type": "beautify"
+            },
+            {
+                "text": "美化了FAQ页面",
+                "type": "beautify"
+            },
+            {
+                "text": "美化了部分数据说明",
+                "type": "beautify"
+            },
+            {
+                "text": "美化了部分文字显示效果",
+                "type": "beautify"
+            },
+            {
+                "text": "修复了侧边视频日期的显示错误",
+                "type": "fix"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "修复错误",
+        "version": "ver.4.1.1",
+        "date": "2019-04-03",
+        "list": [
+            {
+                "text": "修复了未登录时侧边栏的样式",
+                "type": "fix"
+            },
+            {
+                "text": "修复了滚动穿透的问题",
+                "type": "fix"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "FAQ更新",
+        "version": "ver.4.1.2",
+        "date": "2019-04-05",
+        "list": [
+            {
+                "text": "美化了FAQ页面",
+                "type": "beautify"
+            },
+            {
+                "text": "更新FAQ问题",
+                "type": "feature"
+            },
+            {
+                "text": "修复了在安卓客户端也会显示下载安卓应用的BUG",
+                "type": "fix"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "FAQ添加目录",
+        "version": "ver.4.1.3",
+        "date": "2019-04-10",
+        "list": [
+            {
+                "text": "添加FAQ目录",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "实时对比",
+        "version": "ver.4.2.0",
+        "date": "2019-04-14",
+        "list": [
+            {
+                "text": "添加榜首实时对比页面，点击首页榜首粉丝卡片空白处即可进入",
+                "type": "feature"
+            },
+            {
+                "text": "添加粉丝实时对比的图表",
+                "type": "feature"
+            },
+            {
+                "text": "美化计数器样式",
+                "type": "beautify"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "更新FAQ内容",
+        "version": "ver.4.2.1",
+        "date": "2019-04-15",
+        "list": [
+            {
+                "text": "更新了“积分相关问题的回答”",
+                "type": "feature"
+            },
+            {
+                "text": "添加了“等级相关问题及回答”",
+                "type": "feature"
+            },
+            {
+                "text": "添加了“爬虫相关问题及回答”",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "修复错误",
+        "version": "ver.4.2.2",
+        "date": "2019-04-21",
+        "list": [
+            {
+                "text": "修复了实时对比显示错误的问题",
+                "type": "fix"
+            },
+            {
+                "text": "实时数据更新频率一致化",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "修复错误",
+        "version": "ver.4.2.3",
+        "date": "2019-04-29",
+        "list": [
+            {
+                "text": "修复了番剧、国创排行榜显示问题",
+                "type": "fix"
+            },
+            {
+                "text": "添加百度统计模块进行数据分析",
+                "type": "stone"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "究极装修",
+        "version": "ver.5.0.0",
+        "date": "2019-05-05",
+        "list": [
+            {
+                "text": "美化了一系列图标、样式",
+                "type": "beautify"
+            },
+            {
+                "text": "增加UP主爬取数量信息卡片",
+                "type": "feature"
+            }
+        ],
+        "type": "holyshit"
+    },
+    {
+        "title": "美化并修复",
+        "version": "ver.5.0.1",
+        "date": "2019-05-06",
+        "list": [
+            {
+                "text": "对手机端的样式进行修复",
+                "type": "beautify"
+            },
+            {
+                "text": "修正排行榜到UP的页面的链接",
+                "type": "fix"
+            },
+            {
+                "text": "压缩图片大小，大大节省了流量开支",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "修复错误",
+        "version": "ver.5.0.2",
+        "date": "2019-05-09",
+        "list": [
+            {
+                "text": "修复了一个导致翻页失败的错误",
+                "type": "fix"
+            },
+            {
+                "text": "修复了点击头像从视频页面到UP主页面的跳转",
+                "type": "fix"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "美化与修复",
+        "version": "ver.5.0.3",
+        "date": "2019-05-19",
+        "list": [
+            {
+                "text": "缩小移动端的图片大小",
+                "type": "beautify"
+            },
+            {
+                "text": "修复了计时器未销毁的问题",
+                "type": "fix"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "添加追踪管理页面",
+        "version": "ver.6.0.0",
+        "date": "2019-05-22",
+        "list": [
+            {
+                "text": "添加了后端追踪页面",
+                "type": "stone"
+            },
+            {
+                "text": "修复了UP主列表下标错位的问题",
+                "type": "fix"
+            },
+            {
+                "text": "重制了页面底部链接",
+                "type": "feature"
+            }
+        ],
+        "type": "holyshit"
+    },
+    {
+        "title": "美化样式",
+        "version": "ver.6.0.1",
+        "date": "2019-05-25",
+        "list": [
+            {
+                "text": "修改了部分文字说明",
+                "type": "fix"
+            },
+            {
+                "text": "修复了视频各指标排名",
+                "type": "fix"
+            },
+            {
+                "text": "统一了部分样式",
+                "type": "beautify"
+            },
+            {
+                "text": "修改了后台监测爬虫的表现方式",
+                "type": "feature"
+            },
+            {
+                "text": "添加了观测UP主类型分布图表",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "优化用户体验",
+        "version": "ver.6.0.2",
+        "date": "2019-05-27",
+        "list": [
+            {
+                "text": "优化了啥也没搜着的提示",
+                "type": "beautify"
+            },
+            {
+                "text": "优化了不同PC分辨率下的显示",
+                "type": "beautify"
+            },
+            {
+                "text": "美化了小广告",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "优化用户注册登录",
+        "version": "ver.6.1.0",
+        "date": "2019-05-28",
+        "list": [
+            {
+                "text": "美化了用户登录注册",
+                "type": "beautify"
+            },
+            {
+                "text": "现在注册需要验证邮箱，增强安全性",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "修复恶性BUG",
+        "version": "ver.6.1.1",
+        "date": "2019-05-29",
+        "list": [
+            {
+                "text": "修复了在safari下视频图表显示异常的BUG",
+                "type": "fix"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "首页进化",
+        "version": "ver.6.2.0",
+        "date": "2019-05-30",
+        "list": [
+            {
+                "text": "增加了首页近期热门大屏",
+                "type": "feature"
+            },
+            {
+                "text": "增加了用户热门关键词显示",
+                "type": "feature"
+            },
+            {
+                "text": "增加了首页推荐",
+                "type": "feature"
+            },
+            {
+                "text": "增加了首页近期值得注意的UP主列表",
+                "type": "feature"
+            },
+            {
+                "text": "美化了各种页面",
+                "type": "beautify"
+            },
+            {
+                "text": "修复了一个图表显示错误",
+                "type": "fix"
+            },
+            {
+                "text": "修复了排行榜封面显示错误",
+                "type": "fix"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "优化和关系",
+        "version": "ver.6.3.0",
+        "date": "2019-06-02",
+        "list": [
+            {
+                "text": "优化了全站流行关键字的算法",
+                "type": "feature"
+            },
+            {
+                "text": "添加了UP主作品关联图",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "优化和关系",
+        "version": "ver.6.3.1",
+        "date": "2019-06-03",
+        "list": [
+            {
+                "text": "添加了一些大家目前还用不了的后台管理功能",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "优化与播放量",
+        "version": "ver.6.3.2",
+        "date": "2019-06-27",
+        "list": [
+            {
+                "text": "暂时移除了不太科学的关联图",
+                "type": "feature"
+            },
+            {
+                "text": "添加了UP主总播放量增长的显示",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "粉丝变动效率",
+        "version": "ver.6.4.0",
+        "date": "2019-07-02",
+        "list": [
+            {
+                "text": "重构了UP主页面，添加了粉丝变动效率的显示",
+                "type": "feature"
+            },
+            {
+                "text": "增加了UP主投稿标签词云展示的功能",
+                "type": "feature"
+            },
+            {
+                "text": "增强了视频列表页面的分类筛选功能",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "添加捐赠页面",
+        "version": "ver.6.4.1",
+        "date": "2019-07-03",
+        "list": [
+            {
+                "text": "现在可以更加方便地支持本站的发展了",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "新的合作",
+        "version": "ver.6.4.2",
+        "date": "2019-07-08",
+        "list": [
+            {
+                "text": "经过PY, 获取了来自Kanbilibili的数据",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "修复错误",
+        "version": "ver.6.4.3",
+        "date": "2019-07-16",
+        "list": [
+            {
+                "text": "修复了部分浏览器下视频饼图显示异常的问题",
+                "type": "fix"
+            },
+            {
+                "text": "修复了视频数据会显示null的问题",
+                "type": "fix"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "重构前端",
+        "version": "ver.7.0.0",
+        "date": "2019-08-23",
+        "list": [
+            {
+                "text": "因为有很多地方实现不够优雅，所以对前端进行了一系列的重构",
+                "type": "stone"
+            },
+            {
+                "text": "目前可能会有一系列功能的缺失，我会逐步重新设计",
+                "type": "stone"
+            },
+            {
+                "text": "添加了一些全站数据的对比",
+                "type": "feature"
+            },
+            {
+                "text": "使用爱赞助的第三方赞助页面，更加科学",
+                "type": "feature"
+            },
+            {
+                "text": "重新设计了悬浮按钮",
+                "type": "beautify"
+            },
+            {
+                "text": "重新设计了主站样式",
+                "type": "beautify"
+            },
+            {
+                "text": "修复了视频排名较高时排名显示异常的错误",
+                "type": "fix"
+            }
+        ],
+        "type": "holyshit"
+    },
+    {
+        "title": "修复错误",
+        "version": "ver.7.0.1",
+        "date": "2019-08-23",
+        "list": [
+            {
+                "text": "修正了Safari浏览器下显示崩坏的问题",
+                "type": "fix"
+            },
+            {
+                "text": "修正了用户名无法正常显示的问题",
+                "type": "fix"
+            },
+            {
+                "text": "重新设计了部分组件",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "修复打不开的BUG",
+        "version": "ver.7.0.2",
+        "date": "2019-08-24",
+        "list": [
+            {
+                "text": "重新兼容了EDGE、IE11等一系列浏览器",
+                "type": "fix"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "修复了按键失效的BUG",
+        "version": "ver.7.0.3",
+        "date": "2019-08-26",
+        "list": [
+            {
+                "text": "修复了没有关注或收藏任何视频时按钮失效的BUG",
+                "type": "fix"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "样式更新",
+        "version": "ver.7.0.4",
+        "date": "2019-08-28",
+        "list": [
+            {
+                "text": "修正了部分页面侧面出现白边的问题",
+                "type": "fix"
+            },
+            {
+                "text": "美化了整体样式",
+                "type": "beautify"
+            },
+            {
+                "text": "回归到上个版本的榜首对比卡片",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "榜首对比",
+        "version": "ver.7.0.5",
+        "date": "2019-08-28",
+        "list": [
+            {
+                "text": "重新设计了榜首对比页面",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "后台追踪回归",
+        "version": "ver.7.1.0",
+        "date": "2019-09-05",
+        "list": [
+            {
+                "text": "上线了新版本的追踪系统",
+                "type": "feature"
+            },
+            {
+                "text": "美化图表结构",
+                "type": "beautify"
+            },
+            {
+                "text": "修复了跳转BUG",
+                "type": "fix"
+            },
+            {
+                "text": "修复了视频排名数据消失的BUG",
+                "type": "fix"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "功能更新",
+        "version": "ver.7.1.1",
+        "date": "2019-09-10",
+        "list": [
+            {
+                "text": "用户操作记录回归",
+                "type": "feature"
+            },
+            {
+                "text": "添加更合理的提示系统",
+                "type": "feature"
+            },
+            {
+                "text": "添加了登陆的回车事件监听",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "修复错误",
+        "version": "ver.7.1.2",
+        "date": "2019-09-11",
+        "list": [
+            {
+                "text": "修复了UP主列表在手机端的样式错误",
+                "type": "fix"
+            },
+            {
+                "text": "修复了部分邮箱无法通过验证的错误",
+                "type": "fix"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "日常维护",
+        "version": "ver.7.2.0",
+        "date": "2019-09-22",
+        "list": [
+            {
+                "text": "修改了工具栏样式",
+                "type": "beautify"
+            },
+            {
+                "text": "美化了开发日志页面",
+                "type": "beautify"
+            },
+            {
+                "text": "增加了签到的提示信息",
+                "type": "feature"
+            },
+            {
+                "text": "首页粉丝波动卡片回归",
+                "type": "feature"
+            },
+            {
+                "text": "事件页面回归",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "日常更新",
+        "version": "ver.7.2.1",
+        "date": "2019-09-24",
+        "list": [
+            {
+                "text": "美化了事件页面的样式",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "添加功能",
+        "version": "ver.7.2.2",
+        "date": "2019-10-24",
+        "list": [
+            {
+                "text": "添加了服务挂掉时的提示框",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "修复问题",
+        "version": "ver.7.2.3",
+        "date": "2019-10-26",
+        "list": [
+            {
+                "text": "修复了IOS下部分图片无法显示的问题",
+                "type": "fix"
+            },
+            {
+                "text": "修复了榜首粉丝头像未压缩的问题",
+                "type": "fix"
+            },
+            {
+                "text": "更新了管理页面侧边栏的展现形式",
+                "type": "feature  "
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "修复问题",
+        "version": "ver.7.2.4",
+        "date": "2019-11-10",
+        "list": [
+            {
+                "text": "修复了首页在线人数图表显示不全的问题",
+                "type": "fix"
+            },
+            {
+                "text": "更新了吸粉效率计算方式，加上了专栏阅读数据",
+                "type": "fix"
+            },
+            {
+                "text": "美化了UP主、视频列表的点击样式",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "观测获赞数",
+        "version": "ver.7.3.0",
+        "date": "2019-11-21",
+        "list": [
+            {
+                "text": "添加了获赞数的观测",
+                "type": "feature"
+            },
+            {
+                "text": "修复了部分UP主排行无法正确显示的BUG",
+                "type": "fix"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "观测者排行",
+        "version": "ver.7.3.1",
+        "date": "2019-11-24",
+        "list": [
+            {
+                "text": "更新了观测者排行的样式",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "观测者排行",
+        "version": "ver.7.3.2",
+        "date": "2019-11-27",
+        "list": [
+            {
+                "text": "分离显示UP主的历史数据",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "修复与美化",
+        "version": "ver.7.3.3",
+        "date": "2019-12-11",
+        "list": [
+            {
+                "text": "修复了UP主排名变更错误",
+                "type": "fix"
+            },
+            {
+                "text": "美化了UP主历史数据的展示",
+                "type": "beautify"
+            },
+            {
+                "text": "美化了图表样式",
+                "type": "beautify"
+            },
+            {
+                "text": "添加了个人中心页面",
+                "type": "feature"
+            },
+            {
+                "text": "添加了修改昵称功能",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "添加功能",
+        "version": "ver.7.4.0",
+        "date": "2019-12-14",
+        "list": [
+            {
+                "text": "添加了日历图",
+                "type": "feature"
+            },
+            {
+                "text": "添加了个人信息的页面",
+                "type": "feature"
+            },
+            {
+                "text": "增多了用户排行榜的显示",
+                "type": "feature"
+            },
+            {
+                "text": "美化了用户排行榜的说明",
+                "type": "beautify"
+            },
+            {
+                "text": "美化了热门UP主的显示",
+                "type": "beautify"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "美化",
+        "version": "ver.7.4.1",
+        "date": "2019-12-19",
+        "list": [
+            {
+                "text": "美化了页脚显示",
+                "type": "beautify"
+            },
+            {
+                "text": "美化了日志显示",
+                "type": "beautify"
+            },
+            {
+                "text": "美化了观测者排行",
+                "type": "beautify"
+            },
+            {
+                "text": "修复了部分图表显示异常的问题",
+                "type": "fix"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "美化",
+        "version": "ver.7.4.2",
+        "date": "2019-12-27",
+        "list": [
+            {
+                "text": "修复了新星爆发图标",
+                "type": "fix"
+            },
+            {
+                "text": "修复了热搜UP主的链接跳转",
+                "type": "fix"
+            },
+            {
+                "text": "全站热门标签词云回归",
+                "type": "feature"
+            },
+            {
+                "text": "美化了词云图的显示",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "日常更新",
+        "version": "ver.7.5.0",
+        "date": "2019-12-27",
+        "list": [
+            {
+                "text": "改进了日历图的显示",
+                "type": "beautify"
+            },
+            {
+                "text": "添加了未登录用户的限制提示",
+                "type": "feature"
+            },
+            {
+                "text": "限制了未登录用户的数据显示",
+                "type": "feature"
+            },
+            {
+                "text": "添加了开屏对话框的显示内容",
+                "type": "feature"
+            },
+            {
+                "text": "添加了隐私权页面",
+                "type": "feature"
+            },
+            {
+                "text": "美化了关于页面",
+                "type": "beautify"
+            },
+            {
+                "text": "美化了UP主页面摘要、关键字的显示",
+                "type": "beautify"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "观测记录系统",
+        "version": "ver.8.0.0",
+        "date": "2020-02-20",
+        "list": [
+            {
+                "text": "修复了UP主页面视频列表滚动绑定错误的问题",
+                "type": "fix"
+            },
+            {
+                "text": "修复了Safari、IE下粉丝数图表无法显示的问题",
+                "type": "fix"
+            },
+            {
+                "text": "修复了Safari、IE下实时粉丝差距图表无法显示的问题",
+                "type": "fix"
+            },
+            {
+                "text": "修复了部分图表的时区显示",
+                "type": "fix"
+            },
+            {
+                "text": "优化了关键词的显示",
+                "type": "beautify"
+            },
+            {
+                "text": "去除了失效的数据源",
+                "type": "beautify"
+            },
+            {
+                "text": "添加了观测记录系统",
+                "type": "stone"
+            },
+            {
+                "text": "提高了逼格",
+                "type": "beautify"
+            },
+            {
+                "text": "添加了邮箱的改绑",
+                "type": "feature"
+            }
+        ],
+        "type": "holyshit"
+    },
+    {
+        "title": "修复问题",
+        "version": "ver.8.1.0",
+        "date": "2020-02-28",
+        "list": [
+            {
+                "text": "修复了验证码会被QQ邮箱扔到垃圾箱的问题",
+                "type": "fix"
+            },
+            {
+                "text": "添加UP主列表的数据显示",
+                "type": "feature"
+            },
+            {
+                "text": "修复了UP主页面操作按钮显示异常的问题",
+                "type": "fix"
+            },
+            {
+                "text": "美化了部分分辨率下的布局",
+                "type": "beautify"
+            },
+            {
+                "text": "美化了观测记录的显示",
+                "type": "beautify"
+            },
+            {
+                "text": "优先显示最近的观测记录",
+                "type": "feature"
+            },
+            {
+                "text": "UP主显示实际观测频率",
+                "type": "feature"
+            },
+            {
+                "text": "调整了发表观测纪录的位置",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "修复问题",
+        "version": "ver.8.1.1",
+        "date": "2020-03-01",
+        "list": [
+            {
+                "text": "修复了登陆不跳转的问题",
+                "type": "fix"
+            },
+            {
+                "text": "添加了找回密码功能",
+                "type": "feature"
+            },
+            {
+                "text": "观测纪录显示头衔",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "见齐指数",
+        "version": "ver.8.2.0",
+        "date": "2020-03-11",
+        "list": [
+            {
+                "text": "见齐指数的功能开始测试，能够查询关键词的历史热度",
+                "type": "feature"
+            },
+            {
+                "text": "添加了对于部分热门关键词的见齐指数推荐系统",
+                "type": "feature"
+            },
+            {
+                "text": "更新了激情赞助友情链接",
+                "type": "feature"
+            },
+            {
+                "text": "首页关键词词云的「搞笑」论外处理",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "见齐指数",
+        "version": "ver.8.2.0",
+        "date": "2020-03-11",
+        "list": [
+            {
+                "text": "见齐指数的功能开始测试，能够查询关键词的历史热度",
+                "type": "feature"
+            },
+            {
+                "text": "添加了对于部分热门关键词的见齐指数推荐系统",
+                "type": "feature"
+            },
+            {
+                "text": "更新了激情赞助友情链接",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "添加远古数据",
+        "version": "ver.8.2.1",
+        "date": "2020-03-13",
+        "list": [
+            {
+                "text": "追加了部分UP主的远古数据",
+                "type": "feature"
+            },
+            {
+                "text": "添加了数据提供者的友情链接",
+                "type": "feature"
+            },
+            {
+                "text": "修正了粉丝变化的展示",
+                "type": "fix"
+            },
+            {
+                "text": "美化了某些文字和图表的样式",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "番剧数据",
+        "version": "ver.9.0.0",
+        "date": "2020-03-18",
+        "list": [
+            {
+                "text": "添加了番剧数据的查询，数据来自于@Damn☆You",
+                "type": "feature"
+            },
+            {
+                "text": "更新了友情链接",
+                "type": "feature"
+            },
+            {
+                "text": "修正了变化率插值算法的公式",
+                "type": "fix"
+            },
+            {
+                "text": "美化了面积图的展示",
+                "type": "beautify"
+            }
+        ],
+        "type": "holyshit"
+    },
+    {
+        "title": "添加了每日最大在观看周线",
+        "version": "ver.9.1.0",
+        "date": "2020-03-18",
+        "list": [
+            {
+                "text": "再次优化了变化率插值算法",
+                "type": "fix"
+            },
+            {
+                "text": "添加了剧集类型的显示",
+                "type": "feature"
+            },
+            {
+                "text": "剧集分数保留一位小数",
+                "type": "fix"
+            },
+            {
+                "text": "美化了UP主变化日历的展示",
+                "type": "beautify"
+            },
+            {
+                "text": "修复了UP主列表增速下降时的显示异常",
+                "type": "fix"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "赞助者列表",
+        "version": "ver.9.2.0",
+        "date": "2020-03-20",
+        "list": [
+            {
+                "text": "修复了数个文案错误",
+                "type": "fix"
+            },
+            {
+                "text": "添加了赞助者列表",
+                "type": "feature"
+            },
+            {
+                "text": "添加了console彩蛋",
+                "type": "feature"
+            },
+            {
+                "text": "优化了观测记录的展示",
+                "type": "beautify"
+            },
+            {
+                "text": "优化了数个页面的骨架组件",
+                "type": "beautify"
+            },
+            {
+                "text": "允许观测者排行页面添加观测记录",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "修复",
+        "version": "ver.9.3.0",
+        "date": "2020-03-31",
+        "list": [
+            {
+                "text": "优化了观测记录逻辑",
+                "type": "fix"
+            },
+            {
+                "text": "优化了用户信息显示",
+                "type": "fix"
+            },
+            {
+                "text": "使榜首粉丝对比对称",
+                "type": "fix"
+            },
+            {
+                "text": "修复了昵称修改错误的问题",
+                "type": "fix"
+            },
+            {
+                "text": "添加通知告示的积分显示",
+                "type": "feature"
+            },
+            {
+                "text": "优化了榜首粉丝数据获取逻辑",
+                "type": "feature"
+            },
+            {
+                "text": "修复了排行榜计算逻辑",
+                "type": "fix"
+            },
+            {
+                "text": "视频页面添加BV的显示",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "观测记录升级",
+        "version": "ver.9.4.0",
+        "date": "2020-03-31",
+        "list": [
+            {
+                "text": "优化了观测记录逻辑",
+                "type": "fix"
+            },
+            {
+                "text": "添加了观测记录删除",
+                "type": "feature"
+            },
+            {
+                "text": "添加了观测记录回复",
+                "type": "feature"
+            },
+            {
+                "text": "修复了一处文案错误",
+                "type": "fix"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "添加观测者预测功能",
+        "version": "ver.9.5.0",
+        "date": "2020-04-02",
+        "list": [
+            {
+                "text": "添加了观测纪录回复的点赞和删除",
+                "type": "feature"
+            },
+            {
+                "text": "埋入了一些彩蛋",
+                "type": "feature"
+            },
+            {
+                "text": "添加了观测者预测功能",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "修复错误",
+        "version": "ver.9.5.1",
+        "date": "2020-04-03",
+        "list": [
+            {
+                "text": "修复了在某些情况下无法显示预测的问题",
+                "type": "fix"
+            },
+            {
+                "text": "添加了新旧系列番剧追番的显示",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "公布竞猜",
+        "version": "ver.9.5.2",
+        "date": "2020-04-04",
+        "list": [
+            {
+                "text": "添加了竞猜结果的显示",
+                "type": "feature"
+            },
+            {
+                "text": "添加首屏Loading",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "B站近期事件",
+        "version": "ver.9.5.3",
+        "date": "2020-04-15",
+        "list": [
+            {
+                "text": "首页近期粉丝波动改为B站近期事件",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "B站近期事件",
+        "version": "ver.9.5.4",
+        "date": "2020-04-16",
+        "list": [
+            {
+                "text": "添加了UP主的历史成就",
+                "type": "feature"
+            },
+            {
+                "text": "修正了观测者预测的自动开盘逻辑",
+                "type": "fix"
+            },
+            {
+                "text": "更加节省流量了",
+                "type": "feature"
+            },
+            {
+                "text": "美化了一些颜色样式",
+                "type": "beautify"
+            },
+            {
+                "text": "美化了一些数字显示",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "日常维护",
+        "version": "ver.9.5.5",
+        "date": "2020-04-25",
+        "list": [
+            {
+                "text": "修复了数字小数的问题",
+                "type": "fix"
+            },
+            {
+                "text": "添加了触摸滑动弹出侧边栏的功能",
+                "type": "feature"
+            },
+            {
+                "text": "优化了视频页面逻辑",
+                "type": "feature"
+            },
+            {
+                "text": "添加了一些提示性文字",
+                "type": "feature"
+            },
+            {
+                "text": "开灯",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "UP主群组",
+        "version": "ver.10.0.0",
+        "date": "2020-04-29",
+        "list": [
+            {
+                "text": "添加了UP主群组功能，该功能能够更好地对比显示各大UP主",
+                "type": "feature"
+            },
+            {
+                "text": "增强了关注UP主名单",
+                "type": "feature"
+            },
+            {
+                "text": "微调了导航栏顺序",
+                "type": "feature"
+            },
+            {
+                "text": "通过BV号也可以添加视频观测了",
+                "type": "feature"
+            }
+        ],
+        "type": "holyshit"
+    },
+    {
+        "title": "UP主群组",
+        "version": "ver.10.0.1",
+        "date": "2020-04-29",
+        "list": [
+            {
+                "text": "添加了UP主群组的组内排序",
+                "type": "feature"
+            },
+            {
+                "text": "添加了UP主群组的简单聚合统计",
+                "type": "feature"
+            },
+            {
+                "text": "修复了群组Star按钮显示异常的问题",
+                "type": "fix"
+            },
+            {
+                "text": "修改了卡片边距",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "UP主群组",
+        "version": "ver.10.1.0",
+        "date": "2020-05-01",
+        "list": [
+            {
+                "text": "修复了UP主群组无法按照播放量排序的问题",
+                "type": "fix"
+            },
+            {
+                "text": "修复了UP主列表的页数切换",
+                "type": "fix"
+            },
+            {
+                "text": "添加了新UP主卡片的性别和观测间隔信息",
+                "type": "feature"
+            },
+            {
+                "text": "添加了观测者的UP主群组收藏、维护的列表",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "UP主群组",
+        "version": "ver.10.1.1",
+        "date": "2020-05-02",
+        "list": [
+            {
+                "text": "下调了爬取频率",
+                "type": "feature"
+            },
+            {
+                "text": "修复了部分场合下群组数据无法显示的问题",
+                "type": "fix"
+            },
+            {
+                "text": "优化手机端体验",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "APP",
+        "version": "ver.10.2.0",
+        "date": "2020-05-09",
+        "list": [
+            {
+                "text": "在侧边菜单中添加了下载APP的选项",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "观测记录系统",
+        "version": "ver.10.2.1",
+        "date": "2020-05-20",
+        "list": [
+            {
+                "text": "修复了无法删除观测记录的问题",
+                "type": "fix"
+            },
+            {
+                "text": "授予特权研究员删除他人观测记录的权限",
+                "type": "feature"
+            },
+            {
+                "text": "优化观测记录的显示",
+                "type": "beautify"
+            },
+            {
+                "text": "增强了求生欲",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "观测记录系统",
+        "version": "ver.10.2.2",
+        "date": "2020-05-29",
+        "list": [
+            {
+                "text": "统一了观测者操作记录的时间显示",
+                "type": "fix"
+            },
+            {
+                "text": "移除了不再公开的数据",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "修复问题",
+        "version": "ver.10.3.0",
+        "date": "2020-05-30",
+        "list": [
+            {
+                "text": "修复了UP主群组在非第一页时无法搜索出结果的问题",
+                "type": "fix"
+            },
+            {
+                "text": "修复了视频列表作者名的显示",
+                "type": "fix"
+            },
+            {
+                "text": "添加了视频列表Tag的显示",
+                "type": "feature"
+            },
+            {
+                "text": "添加了视频列表按照见齐指数的排序方式",
+                "type": "feature"
+            },
+            {
+                "text": "UP主群组的搜索不再区分大小写",
+                "type": "cloud"
+            },
+            {
+                "text": "优化了使用关键词搜索视频的速度",
+                "type": "cloud"
+            },
+            {
+                "text": "增多了观测者预测的显示个数",
+                "type": "cloud"
+            },
+            {
+                "text": "优化了见齐指数查询的速度",
+                "type": "cloud"
+            },
+            {
+                "text": "美化了视频列表的显示",
+                "type": "beautify"
+            },
+            {
+                "text": "对部分特殊观测者的观测记录设定特殊颜色",
+                "type": "beautify"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "小工具更新",
+        "version": "ver.10.3.1",
+        "date": "2020-08-09",
+        "list": [
+            {
+                "text": "因接口已经关闭，取消了全站在线人数的显示",
+                "type": "feature"
+            },
+            {
+                "text": "添加了BV、av互转的小工具",
+                "type": "feature"
+            },
+            {
+                "text": "首页不再展示榜首粉丝对比，而是涨粉最快与其前一名的对比",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "观测者议会",
+        "version": "ver.11.0.0",
+        "date": "2020-08-31",
+        "list": [
+            {
+                "text": "添加了观测者议会系统。这个系统能够让观测者们表达对观测站的建议。",
+                "type": "feature"
+            },
+            {
+                "text": "修改了右下角按钮的逻辑",
+                "type": "feature"
+            },
+            {
+                "text": "添加了回到顶部的功能",
+                "type": "feature"
+            },
+            {
+                "text": "添加了观测者预测的收益率表示",
+                "type": "feature"
+            },
+            {
+                "text": "美化了右下角按钮",
+                "type": "beautify"
+            },
+            {
+                "text": "美化了一些动画效果",
+                "type": "beautify"
+            },
+            {
+                "text": "修正了首页逻辑",
+                "type": "fix"
+            },
+            {
+                "text": "修正了观测者创建日期的显示",
+                "type": "fix"
+            },
+            {
+                "text": "修正了观测者排行的一个BUG",
+                "type": "fix"
+            }
+        ],
+        "type": "holyshit"
+    },
+    {
+        "title": "修复错误",
+        "version": "ver.11.0.1",
+        "date": "2020-09-01",
+        "list": [
+            {
+                "text": "修复了FAQ跳转的错误",
+                "type": "fix"
+            },
+            {
+                "text": "修复了观测者排名时间显示的错误",
+                "type": "fix"
+            },
+            {
+                "text": "更换了观测者议会的图标",
+                "type": "beautify"
+            },
+            {
+                "text": "优化了观测者议会的显示",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "站娘",
+        "version": "ver.11.1.0",
+        "date": "2020-09-03",
+        "list": [
+            {
+                "text": "修复了FAQ的一个叙述错误",
+                "type": "fix"
+            },
+            {
+                "text": "修复了一个观测者议会的显示异常",
+                "type": "fix"
+            },
+            {
+                "text": "修复了UP主成就日期的显示异常",
+                "type": "fix"
+            },
+            {
+                "text": "改进了观测者排行的显示",
+                "type": "beautify"
+            },
+            {
+                "text": "添加了站娘",
+                "type": "beautify"
+            },
+            {
+                "text": "添加了观测者议会对各状态议题数量的展示",
+                "type": "feature"
+            },
+            {
+                "text": "优化了性能",
+                "type": "feature"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "小型更新",
+        "version": "ver.11.1.1",
+        "date": "2020-10-04",
+        "list": [
+            {
+                "text": "美化了一些动画",
+                "type": "beautify"
+            },
+            {
+                "text": "添加了站点通知",
+                "type": "feature"
+            },
+            {
+                "text": "现在到达过观想者（高级研究员）的用户也能新建议题了。",
+                "type": "feature"
+            },
+            {
+                "text": "修复了预测的一些过时文案描述",
+                "type": "fix"
+            },
+            {
+                "text": "现在只有首次收藏群组会进行积分变动",
+                "type": "feature"
+            },
+            {
+                "text": "小屏幕下添加了前往观测纪录区的快捷键",
+                "type": "feature"
+            },
+            {
+                "text": "Ctrl + Enter = 发送观测纪录",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "视频页重做",
+        "version": "ver.11.2.0",
+        "date": "2020-10-21",
+        "list": [
+            {
+                "text": "重做了视频页，展示的数据更加丰富了",
+                "type": "feature"
+            },
+            {
+                "text": "添加了在观测站直接浏览视频的功能",
+                "type": "feature"
+            },
+            {
+                "text": "修复了布局没有对齐的错误",
+                "type": "beautify"
+            },
+            {
+                "text": "修复了一处观测者议会的文案错误",
+                "type": "fix"
+            },
+            {
+                "text": "修复了一处FAQ的文案错误",
+                "type": "fix"
+            },
+            {
+                "text": "更新了FAQ关于权限等级的描述",
+                "type": "feature"
+            },
+            {
+                "text": "添加了简单的视频数据横向对比功能",
+                "type": "feature"
+            },
+            {
+                "text": "修复了积分计算没有提示的问题",
+                "type": "fix"
+            },
+            {
+                "text": "修复了观测者数据没有及时更新的问题",
+                "type": "fix"
+            },
+            {
+                "text": "修复了签到转圈的问题",
+                "type": "fix"
+            }
+        ],
+        "type": "important"
+    },
+    {
+        "title": "视频相关补丁",
+        "version": "ver.11.2.1",
+        "date": "2020-10-28",
+        "list": [
+            {
+                "text": "优化了视频搜索的日期范围",
+                "type": "feature"
+            },
+            {
+                "text": "优化了视频搜索的算法，提高准确性",
+                "type": "feature"
+            },
+            {
+                "text": "现在视频搜索关键词过滤和日期范围能同时作用了",
+                "type": "feature"
+            },
+            {
+                "text": "优化了视频数据百分比的显示",
+                "type": "beautify"
+            },
+            {
+                "text": "增强了标志位的求生欲",
+                "type": "feature"
+            },
+            {
+                "text": "修复了导致标志位在某些浏览器下无法显示的BUG",
+                "type": "fix"
+            },
+            {
+                "text": "改进了一些非负面标志位的颜色",
+                "type": "beautify"
+            },
+            {
+                "text": "美化了作者视频列表的对齐",
+                "type": "beautify"
+            },
+            {
+                "text": "修复了作者视频列表的显示",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "见齐指数更新",
+        "version": "ver.11.2.2",
+        "date": "2020-10-30",
+        "list": [
+            {
+                "text": "优化了见齐指数算法",
+                "type": "feature"
+            },
+            {
+                "text": "添加了见齐指数关键词相关作者的展示",
+                "type": "feature"
+            },
+            {
+                "text": "优化了全站热门TAG词云图的算法",
+                "type": "feature"
+            },
+            {
+                "text": "美化了日历图的展示",
+                "type": "beautify"
+            },
+            {
+                "text": "修改了标志位文案",
+                "type": "feature"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "优化",
+        "version": "ver.11.2.3",
+        "date": "2020-11-05",
+        "list": [
+            {
+                "text": "优化了滑动组件",
+                "type": "feature"
+            },
+            {
+                "text": "修复了一处作者数据的逻辑错误",
+                "type": "fix"
+            },
+            {
+                "text": "修复了日历图的展示异常",
+                "type": "fix"
+            },
+            {
+                "text": "修复了一处评论数据的展示异常",
+                "type": "fix"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "修复",
+        "version": "ver.11.2.4",
+        "date": "2020-11-05",
+        "list": [
+            {
+                "text": "修复了滑动组件有时无法点击的问题",
+                "type": "fix"
+            },
+            {
+                "text": "修复了OB热搜首次加载无法滑动的问题",
+                "type": "fix"
+            }
+        ],
+        "type": "unimportant"
+    },
+    {
+        "title": "修复",
+        "version": "ver.11.2.5",
+        "date": "2020-11-07",
+        "list": [
+            {
+                "text": "修复了横向滑动组件中无法竖向滑动全局的问题",
+                "type": "fix"
+            },
+            {
+                "text": "修复了部分浏览器下的渲染层次错乱的问题",
+                "type": "fix"
+            },
+            {
+                "text": "移除了小屏幕下横向滑动组件可以穿透父组件的特性",
+                "type": "feature"
+            },
+            {
+                "text": "美化了移动端的布局",
+                "type": "beautify"
+            }
+        ],
+        "type": "unimportant"
+    }
+]
